@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks and Queues - Lab", "Stacks and Queues - Lab", "{FCF412EC-3722-48AC-A241-E009F0955A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01BasicStackOperations", "Stacks and Queues - Exercise\01BasicStackOperations\01BasicStackOperations.csproj", "{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEF40C97-85A4-41C9-8DB0-DC6613FD23C4} = {FCF412EC-3722-48AC-A241-E009F0955A02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0173B846-62C1-432B-A2CA-B91CEE958F8B}
+	EndGlobalSection
+EndGlobal
