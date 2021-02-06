@@ -1,0 +1,13 @@
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.exe
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.deps.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.runtimeconfig.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.runtimeconfig.dev.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.csprojAssemblyReference.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.AssemblyInfoInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.AssemblyInfo.cs
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.genruntimeconfig.cache

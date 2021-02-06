@@ -1,0 +1,13 @@
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.exe
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.deps.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.runtimeconfig.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.AssemblyInfo.cs
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.genruntimeconfig.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.csprojAssemblyReference.cache
