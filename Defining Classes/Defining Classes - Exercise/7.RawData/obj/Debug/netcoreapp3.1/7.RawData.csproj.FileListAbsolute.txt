@@ -1,0 +1,13 @@
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.exe
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.deps.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.dev.json
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfoInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfo.cs
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csproj.CoreCompileInputs.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.dll
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.pdb
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.genruntimeconfig.cache
+C:\Users\bgroz\OneDrive\Desktop\Defining Classes - Lab\Defining Classes - Lab\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csprojAssemblyReference.cache
