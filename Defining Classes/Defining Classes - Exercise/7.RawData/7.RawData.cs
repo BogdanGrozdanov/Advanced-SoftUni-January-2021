@@ -8,7 +8,6 @@ namespace RawData
         static void Main(string[] args)
         {
             List<Car> cars = new List<Car>();
-
             int numOfCar = int.Parse(Console.ReadLine());
             for (int i = 0; i < numOfCar; i++)
             {
@@ -29,20 +28,28 @@ namespace RawData
             string comand = Console.ReadLine();
             if (comand == "fragile")
             {
-                foreach (Car car in cars)
+                foreach (var car in cars)
                 {
+                    string model = string.Empty;
                     foreach (var tire in car.Tires)
                     {
-                        if (tire.TirePressure < 1)
+                        if (tire.TirePressure < 1 && car.Model != model)
                         {
-                            Console.WriteLine(car.Model);
+                            model = car.Model;
+                            Console.WriteLine($"{car.Model}");
                         }
                     }
                 }
             }
-            else
+            else if (comand == "flamable")
             {
-
+                foreach (var car in cars)
+                {
+                    if (car.Engine.EnginePower > 250)
+                    {
+                        Console.WriteLine($"{car.Model}");
+                    }
+                }
             }
         }
     }
