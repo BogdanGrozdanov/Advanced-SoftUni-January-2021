@@ -17,7 +17,7 @@ namespace RawData
 
         public double TirePressure { get; set; }
         public double TireAge { get; set; }
-        List<Tire> Tires = new List<Tire>();
+        public List<Tire> Tires = new List<Tire>();
 
 
     }
