@@ -6,7 +6,7 @@ namespace RawData
     {
         public Car()
         {
-            
+
         }
 
         public Car(string model, Engine engine, Cargo cargo, List<Tire> tires)
@@ -14,7 +14,7 @@ namespace RawData
             Model = model;
             Engine = engine;
             Cargo = cargo;
-            tires = new List<Tire>();
+            Tires = tires;
 
         }
 
