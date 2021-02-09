@@ -11,7 +11,7 @@ namespace RawData
             EngineSpeed = 0;
             EnginePower = 0;
         }
-        public Engine(int egineSpeed, int enginePower)
+        public  Engine(int egineSpeed, int enginePower)
         {
             EngineSpeed = egineSpeed;
             EnginePower = enginePower;
