@@ -93,7 +93,7 @@ namespace _01.Bombs
 
             if (casing.Count == 0)
             {
-                Console.WriteLine("Bomb Effects: empty");
+                Console.WriteLine("Bomb Casings: empty");
             }
             else
             {
